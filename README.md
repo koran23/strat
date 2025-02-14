@@ -61,11 +61,11 @@ This strategy focuses on specific time windows, top holder percentage levels, an
 Use these filters to immediately **avoid** certain transactions based on the top holder percentage.
 
 ### If Top Holder % is around 0.005
-- **Exclude** transactions showing impact values like:  
+- **Exclude** transactions showing values like:  
   - `3.78`, `4.x`, or `0.4x`
 
 ### If Top Holder % is around 0.006
-- **Exclude** transactions showing impact values like:  
+- **Exclude** transactions showing values like:  
   - `3.78`
 
 ---
